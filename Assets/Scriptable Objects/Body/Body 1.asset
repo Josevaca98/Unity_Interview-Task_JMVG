@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24dd6a0ab1f6e364fa661a9791a83e3b, type: 3}
+  m_Name: Body 1
+  m_EditorClassIdentifier: 
+  bodyPartName: Brown Skin
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 6f1ea4dea73567942a09a8e4820bc622, type: 2}
+  - {fileID: 7400000, guid: 3f7b17f3242e74243bcc3bd92e4a3247, type: 2}
+  - {fileID: 7400000, guid: f184e45200f9b43459007f132a6ddedc, type: 2}
+  - {fileID: 7400000, guid: 745ec4963c2e6eb49a7c617560e27488, type: 2}
+  - {fileID: 7400000, guid: 6d7c1115ed144ad4f9f58bbb3e3abf0a, type: 2}
+  - {fileID: 7400000, guid: a872768d2489fec45b05a65214163c1d, type: 2}
+  - {fileID: 7400000, guid: 0e1fe536a1b00ff4ea3824a24e336278, type: 2}
+  - {fileID: 7400000, guid: 91b60c6f9ebfad34381c5143f10c9f32, type: 2}

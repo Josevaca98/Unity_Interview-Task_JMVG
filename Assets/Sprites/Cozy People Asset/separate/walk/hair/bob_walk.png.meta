@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: a7a86fe94ddc3984eb53c3119e241eec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bob_walk_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653b7d530be9ac459c1df555d0c0eb2
+      internalID: -1510132866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 105
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bcec544a2458d43a8e874aafb0e701
+      internalID: -263532470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 105
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a97f795f8dc481438747b5d602aad59
+      internalID: -565337238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 103
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9af1578fb47e94b9c08c6484fe81b9
+      internalID: 657460812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 103
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e2978527584c4faf0512844a9b958
+      internalID: 1578913023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 105
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba92474da2a5e1e4fbdd28fd921d67c2
+      internalID: 661938255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7800b88c2ae54f9a2da959f91edf4
+      internalID: 972271496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 103
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f1b4b690f7154592e0e6b019ba182
+      internalID: 2025312559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b6fca21e91a6c41972a37ac4658b99
+      internalID: 1074771503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_121
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 72
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358300c73a983ca4586b0b8ebb8c1c88
+      internalID: 1848574646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_122
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 72
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89a27836f82a540968e774f3912d7b
+      internalID: 1844119330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6592802b3a30624bb9fcf074922d6c0
+      internalID: 158594526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_124
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa1013d40dbed449839ed976df5394c
+      internalID: 1868145411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_125
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 72
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d66afe8fbb664b8beb591a307838c
+      internalID: -1072135251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_126
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 72
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32e7b6372c6254db094632e6c8ee79
+      internalID: 421407073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_127
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64deba7d1ec2e9c46b146d10642087fc
+      internalID: 1114740055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_232
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838809e50a6dc5b4593c590c27cbf6fc
+      internalID: -843834405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_233
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 40
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15682c215c9e5e54b9d7427e7fcca596
+      internalID: -1881055248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_234
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 42
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635537adb85cc584f88bc2258f021574
+      internalID: 889692510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_235
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11889690c1b2f94aad3d44c634731a9
+      internalID: 267701583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_236
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c37f93014bd744b78c80b09551b91
+      internalID: -2024315267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_237
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 40
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d7757cf45161479d968c0e60cd498
+      internalID: -2018106203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_238
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 42
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15df3570632cc49856fcc603aa919d
+      internalID: 563369207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_239
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44edca897e552ce44a48b2a6f1c2dc2f
+      internalID: 545452456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_344
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0085b480022ec044b32f5633b2425bd
+      internalID: -559176015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_345
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357fc5627f27a6d42a6a095711289fdb
+      internalID: 2145531499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_346
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 11
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af66d8d62adfda14b9fb92dc3bd26ef8
+      internalID: 306310908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_347
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 7
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d438cae3402a43479c4a48d13d479b1
+      internalID: -207835609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_348
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853694713b434994490438ac0006c2ac
+      internalID: -868822497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_349
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35153255b4ffbf84f8f75abd122c1819
+      internalID: 2072877254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_350
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 11
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0973dc69a96ac3f489bb213d5098d871
+      internalID: -538648297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_walk_351
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 7
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b016597b65f39b24abe0e1a739361698
+      internalID: -652390752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bob_walk_85: -1762320433
+      bob_walk_365: -1006251812
+      bob_walk_47: -522583106
+      bob_walk_213: 1647370625
+      bob_walk_215: 1475374541
+      bob_walk_328: -1982608427
+      bob_walk_407: 1025164904
+      bob_walk_302: -1537518936
+      bob_walk_225: 19979170
+      bob_walk_294: -634042394
+      bob_walk_222: 1646767440
+      bob_walk_382: -1891998309
+      bob_walk_156: 1183618877
+      bob_walk_185: 338153133
+      bob_walk_346: 306310908
+      bob_walk_247: -690257200
+      bob_walk_139: -739031224
+      bob_walk_284: -430473672
+      bob_walk_411: -132208269
+      bob_walk_255: -1337722978
+      bob_walk_27: -276908382
+      bob_walk_186: -1956310248
+      bob_walk_338: 848445785
+      bob_walk_293: 100000607
+      bob_walk_110: -1538268218
+      bob_walk_331: 989078808
+      bob_walk_12: 1578913023
+      bob_walk_410: -906380097
+      bob_walk_43: -379762627
+      bob_walk_356: 452110887
+      bob_walk_218: -1418850230
+      bob_walk_357: 52511960
+      bob_walk_205: 740030797
+      bob_walk_128: 1389488550
+      bob_walk_40: -684536729
+      bob_walk_114: -3057309
+      bob_walk_135: -1831214930
+      bob_walk_350: -538648297
+      bob_walk_103: -192326600
+      bob_walk_131: 261690567
+      bob_walk_91: 875541492
+      bob_walk_107: -181111843
+      bob_walk_140: -1697444494
+      bob_walk_108: 1076188120
+      bob_walk_286: 2064334623
+      bob_walk_303: -991892851
+      bob_walk_417: -733845113
+      bob_walk_5: 1158778084
+      bob_walk_389: -1481832263
+      bob_walk_132: -106293767
+      bob_walk_404: 2011480619
+      bob_walk_373: 739935272
+      bob_walk_232: -843834405
+      bob_walk_147: -342952900
+      bob_walk_122: 1844119330
+      bob_walk_323: 697302708
+      bob_walk_439: 166930532
+      bob_walk_445: 917150952
+      bob_walk_197: 275473159
+      bob_walk_400: 1169514560
+      bob_walk_159: 1268012114
+      bob_walk_41: -1056599710
+      bob_walk_254: -2124699345
+      bob_walk_259: 1305213976
+      bob_walk_31: -1492265133
+      bob_walk_339: 107486236
+      bob_walk_443: 905578563
+      bob_walk_444: -395424652
+      bob_walk_193: -1056230289
+      bob_walk_237: -2018106203
+      bob_walk_158: -795830518
+      bob_walk_181: -1398125858
+      bob_walk_170: 220504407
+      bob_walk_306: -28405295
+      bob_walk_14: 972271496
+      bob_walk_133: 230507976
+      bob_walk_239: 545452456
+      bob_walk_416: -1983220177
+      bob_walk_45: 393918576
+      bob_walk_60: -97683339
+      bob_walk_182: 1564741526
+      bob_walk_362: -1296973314
+      bob_walk_105: 370880372
+      bob_walk_300: 298859075
+      bob_walk_337: -1799576940
+      bob_walk_295: -1335790296
+      bob_walk_206: 1836698478
+      bob_walk_191: 1681058085
+      bob_walk_226: -811858791
+      bob_walk_208: -1501584806
+      bob_walk_355: -944381237
+      bob_walk_25: 1116428324
+      bob_walk_388: -1379547515
+      bob_walk_51: 1960926190
+      bob_walk_173: 1775513321
+      bob_walk_136: -2039929726
+      bob_walk_16: -672511502
+      bob_walk_10: -565337238
+      bob_walk_87: -1161818289
+      bob_walk_290: 348821780
+      bob_walk_242: 271276868
+      bob_walk_270: -2043106419
+      bob_walk_257: 1699731011
+      bob_walk_153: -1887530457
+      bob_walk_151: 1621072021
+      bob_walk_353: -1678963450
+      bob_walk_74: 1374806271
+      bob_walk_123: 158594526
+      bob_walk_35: -1126973996
+      bob_walk_11: 657460812
+      bob_walk_94: -15000588
+      bob_walk_223: 267510914
+      bob_walk_316: -381558222
+      bob_walk_65: -1982680561
+      bob_walk_78: 1333551997
+      bob_walk_403: -2018187248
+      bob_walk_71: 104322072
+      bob_walk_230: -1911097509
+      bob_walk_263: 107488532
+      bob_walk_280: -652247727
+      bob_walk_32: -752487967
+      bob_walk_169: 838734132
+      bob_walk_352: -2096050461
+      bob_walk_56: 1711142565
+      bob_walk_125: -1072135251
+      bob_walk_376: -1134575752
+      bob_walk_28: -1810453925
+      bob_walk_6: -1663328091
+      bob_walk_50: -1384846685
+      bob_walk_304: 1735402391
+      bob_walk_360: 275680798
+      bob_walk_285: 1409993111
+      bob_walk_281: -1924638019
+      bob_walk_130: 115804995
+      bob_walk_161: 333906893
+      bob_walk_204: 1156344313
+      bob_walk_414: 971247554
+      bob_walk_120: 1074771503
+      bob_walk_245: 1523722159
+      bob_walk_98: -664908680
+      bob_walk_374: -1352170392
+      bob_walk_149: -1451191628
+      bob_walk_430: -821043036
+      bob_walk_266: 1392228943
+      bob_walk_55: -186053968
+      bob_walk_104: 103424206
+      bob_walk_175: -1895541030
+      bob_walk_310: 60126858
+      bob_walk_349: 2072877254
+      bob_walk_86: 2069312489
+      bob_walk_187: 977544507
+      bob_walk_224: 1775796348
+      bob_walk_102: -1783984381
+      bob_walk_386: 255408524
+      bob_walk_150: -1944438553
+      bob_walk_251: 1171739828
+      bob_walk_165: 1348647686
+      bob_walk_305: -866432883
+      bob_walk_426: -1419779577
+      bob_walk_212: 1467092430
+      bob_walk_220: -1004228093
+      bob_walk_325: 821578044
+      bob_walk_178: -36685304
+      bob_walk_231: -473786174
+      bob_walk_194: -432678486
+      bob_walk_21: 2096596259
+      bob_walk_332: 1065005786
+      bob_walk_24: 441603410
+      bob_walk_93: -2135094400
+      bob_walk_81: -143878843
+      bob_walk_314: 164401823
+      bob_walk_260: -1031001084
+      bob_walk_195: 1141640668
+      bob_walk_221: -92469984
+      bob_walk_80: 1866398433
+      bob_walk_83: -1681308128
+      bob_walk_269: 251089401
+      bob_walk_367: 1538105422
+      bob_walk_287: 862950645
+      bob_walk_233: -1881055248
+      bob_walk_36: -1357259387
+      bob_walk_369: -1716692769
+      bob_walk_199: -212004768
+      bob_walk_427: -788123858
+      bob_walk_256: 1430257622
+      bob_walk_318: -205522961
+      bob_walk_190: -1492282600
+      bob_walk_236: -2024315267
+      bob_walk_58: 397400079
+      bob_walk_249: 557419276
+      bob_walk_176: 852354425
+      bob_walk_240: 765853307
+      bob_walk_431: 898909651
+      bob_walk_422: 151330395
+      bob_walk_344: -559176015
+      bob_walk_116: -1948930466
+      bob_walk_73: -1505748881
+      bob_walk_438: 866704225
+      bob_walk_196: 1518570423
+      bob_walk_4: -1480024087
+      bob_walk_446: 141041786
+      bob_walk_283: 1893557556
+      bob_walk_267: -542447569
+      bob_walk_15: 2025312559
+      bob_walk_84: 1537654842
+      bob_walk_405: -1182601721
+      bob_walk_298: -972454929
+      bob_walk_320: -1026086486
+      bob_walk_423: -1667992562
+      bob_walk_2: 489091421
+      bob_walk_288: -142779421
+      bob_walk_111: 403407494
+      bob_walk_359: 305256373
+      bob_walk_370: 1882869593
+      bob_walk_351: -652390752
+      bob_walk_420: 1258289388
+      bob_walk_210: 2078303326
+      bob_walk_333: -1774546514
+      bob_walk_34: 544887023
+      bob_walk_321: 1942950937
+      bob_walk_57: 1687257398
+      bob_walk_277: 684312035
+      bob_walk_345: 2145531499
+      bob_walk_79: -104103036
+      bob_walk_157: 1894604426
+      bob_walk_383: 2056059919
+      bob_walk_329: 1077179853
+      bob_walk_387: -1324110113
+      bob_walk_258: 1504249620
+      bob_walk_342: 2125726551
+      bob_walk_216: -407934860
+      bob_walk_380: 1136264881
+      bob_walk_19: 1014483473
+      bob_walk_96: -1889273584
+      bob_walk_148: -1979141291
+      bob_walk_54: -540022713
+      bob_walk_261: -91957506
+      bob_walk_202: -1707901643
+      bob_walk_174: 1006121735
+      bob_walk_203: -1254509652
+      bob_walk_109: 995328477
+      bob_walk_435: -806640087
+      bob_walk_396: -37107709
+      bob_walk_75: -2042225765
+      bob_walk_340: 1190957281
+      bob_walk_117: 477076240
+      bob_walk_309: -759785115
+      bob_walk_127: 1114740055
+      bob_walk_121: 1848574646
+      bob_walk_184: -1956359693
+      bob_walk_106: -1083040591
+      bob_walk_274: 262849350
+      bob_walk_90: 1562881825
+      bob_walk_381: -1799889565
+      bob_walk_219: -1592597227
+      bob_walk_252: 1654850587
+      bob_walk_129: -1525250201
+      bob_walk_188: -1749064345
+      bob_walk_401: 565125392
+      bob_walk_432: -1837298868
+      bob_walk_415: -1702408387
+      bob_walk_393: -1738478293
+      bob_walk_155: 1023130848
+      bob_walk_311: -1530670437
+      bob_walk_377: 261538020
+      bob_walk_59: 472179449
+      bob_walk_409: -97193431
+      bob_walk_319: -698937424
+      bob_walk_88: 1144836405
+      bob_walk_364: 267082662
+      bob_walk_421: 2109443203
+      bob_walk_282: 231712992
+      bob_walk_146: -219665518
+      bob_walk_327: 1320485471
+      bob_walk_292: -1599081559
+      bob_walk_434: 1073119098
+      bob_walk_246: 1743360396
+      bob_walk_317: 2139771909
+      bob_walk_424: -1884365605
+      bob_walk_192: 101775290
+      bob_walk_180: -1459176135
+      bob_walk_268: -597968669
+      bob_walk_20: -303992181
+      bob_walk_402: -327746691
+      bob_walk_137: 1308173377
+      bob_walk_433: 452499419
+      bob_walk_238: 563369207
+      bob_walk_67: 1601454930
+      bob_walk_76: 150494318
+      bob_walk_113: -2000533332
+      bob_walk_440: -1104128734
+      bob_walk_406: -179344571
+      bob_walk_82: 1605518751
+      bob_walk_1: -1841983003
+      bob_walk_385: 1532360583
+      bob_walk_112: 2063036027
+      bob_walk_313: -750249330
+      bob_walk_207: 677047635
+      bob_walk_354: 1466022620
+      bob_walk_22: 24289183
+      bob_walk_17: -1901551505
+      bob_walk_299: 1289525585
+      bob_walk_89: -990764822
+      bob_walk_163: -676936621
+      bob_walk_201: 1156135031
+      bob_walk_315: -1185618395
+      bob_walk_307: -1859458751
+      bob_walk_371: 1472459568
+      bob_walk_68: 1638281199
+      bob_walk_66: 570822658
+      bob_walk_172: 940163179
+      bob_walk_95: -293090076
+      bob_walk_168: -1425093783
+      bob_walk_437: -1026328620
+      bob_walk_235: 267701583
+      bob_walk_363: 2031443994
+      bob_walk_145: 1203587904
+      bob_walk_413: -37952480
+      bob_walk_53: 96642063
+      bob_walk_336: -1868993054
+      bob_walk_441: 460323994
+      bob_walk_134: 689195150
+      bob_walk_392: 178492564
+      bob_walk_368: 2122879197
+      bob_walk_391: -1182658199
+      bob_walk_273: 1818266504
+      bob_walk_397: -1991975364
+      bob_walk_395: 1489005360
+      bob_walk_143: -1811342419
+      bob_walk_275: -102956158
+      bob_walk_100: -289541771
+      bob_walk_77: 362153223
+      bob_walk_278: 2085871898
+      bob_walk_398: -2014127474
+      bob_walk_272: 281969211
+      bob_walk_378: 1738976225
+      bob_walk_26: -1709155753
+      bob_walk_361: 1406789628
+      bob_walk_154: 593029556
+      bob_walk_229: 104103683
+      bob_walk_408: -1613517573
+      bob_walk_164: 1886668747
+      bob_walk_227: 632187287
+      bob_walk_243: -1311261318
+      bob_walk_436: -1249444654
+      bob_walk_42: -945438612
+      bob_walk_18: 1306555815
+      bob_walk_48: 1248288066
+      bob_walk_13: 661938255
+      bob_walk_115: -543286084
+      bob_walk_37: -235398034
+      bob_walk_324: -432442034
+      bob_walk_144: 264349207
+      bob_walk_167: -635523129
+      bob_walk_7: 829955282
+      bob_walk_9: -263532470
+      bob_walk_399: -623129734
+      bob_walk_265: -993911345
+      bob_walk_46: 1430943546
+      bob_walk_166: -980528866
+      bob_walk_343: -2020376545
+      bob_walk_189: -1690111754
+      bob_walk_262: 1386102737
+      bob_walk_171: -1226661598
+      bob_walk_52: 1971518366
+      bob_walk_160: -609878461
+      bob_walk_271: -2142650093
+      bob_walk_289: 1770412629
+      bob_walk_241: -2137877736
+      bob_walk_358: -2110415632
+      bob_walk_39: 1651582457
+      bob_walk_209: 172792484
+      bob_walk_394: -588271027
+      bob_walk_428: 236886915
+      bob_walk_126: 421407073
+      bob_walk_8: -1510132866
+      bob_walk_3: 333974570
+      bob_walk_119: 1146144538
+      bob_walk_297: 1594215228
+      bob_walk_312: -156693712
+      bob_walk_390: -1782678745
+      bob_walk_248: 1552699180
+      bob_walk_442: 1515108127
+      bob_walk_418: -1437991771
+      bob_walk_200: -1220439714
+      bob_walk_419: 689869708
+      bob_walk_379: -717097591
+      bob_walk_61: 397441523
+      bob_walk_183: -139667013
+      bob_walk_372: 2129081760
+      bob_walk_118: -625035830
+      bob_walk_348: -868822497
+      bob_walk_447: -329265021
+      bob_walk_64: 326172741
+      bob_walk_412: 1120567118
+      bob_walk_124: 1868145411
+      bob_walk_198: 107833699
+      bob_walk_101: -1443107932
+      bob_walk_211: 1807637655
+      bob_walk_264: -1081552610
+      bob_walk_23: -40131635
+      bob_walk_30: -208329339
+      bob_walk_70: 695439369
+      bob_walk_97: -196863518
+      bob_walk_177: 1579407674
+      bob_walk_366: -1208565043
+      bob_walk_234: 889692510
+      bob_walk_301: 992021273
+      bob_walk_276: -197760077
+      bob_walk_250: 1266385480
+      bob_walk_334: -138934695
+      bob_walk_308: -1383621994
+      bob_walk_244: 1866693623
+      bob_walk_142: -1930038378
+      bob_walk_291: -1050748731
+      bob_walk_33: -207307152
+      bob_walk_62: -834094058
+      bob_walk_141: 1709675174
+      bob_walk_99: -1288356987
+      bob_walk_72: 1998262224
+      bob_walk_322: -2010312604
+      bob_walk_38: -1325664060
+      bob_walk_375: -1956823328
+      bob_walk_347: -207835609
+      bob_walk_92: 892720542
+      bob_walk_335: -201447832
+      bob_walk_29: -2045144530
+      bob_walk_49: -977236787
+      bob_walk_253: 1094056243
+      bob_walk_296: 711827092
+      bob_walk_429: -587113252
+      bob_walk_326: -1568639892
+      bob_walk_44: -262216170
+      bob_walk_152: -1395661504
+      bob_walk_330: 742516198
+      bob_walk_425: -2086568709
+      bob_walk_69: -1524438488
+      bob_walk_63: 331570734
+      bob_walk_179: 1119285924
+      bob_walk_279: 2088639342
+      bob_walk_162: 1007920777
+      bob_walk_341: 2095502041
+      bob_walk_0: 1067042613
+      bob_walk_138: 34204676
+      bob_walk_384: -2077109908
+      bob_walk_214: 1234543736
+      bob_walk_217: -1678189800
+      bob_walk_228: 1207265477
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
