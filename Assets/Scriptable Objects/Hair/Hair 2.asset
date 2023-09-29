@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24dd6a0ab1f6e364fa661a9791a83e3b, type: 3}
+  m_Name: Hair 2
+  m_EditorClassIdentifier: 
+  bodyPartName: 'Ponytail '
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 647be00325e58ce4e94065893397649b, type: 2}
+  - {fileID: 7400000, guid: 43edd252ccb8c61458f2abb6f91b8578, type: 2}
+  - {fileID: 7400000, guid: b589d806b56160d4799932963c1722b7, type: 2}
+  - {fileID: 7400000, guid: c6d8897513d937c4e83a72d9358bd835, type: 2}
+  - {fileID: 7400000, guid: f7219166f5d40394bb76a470d2b1776d, type: 2}
+  - {fileID: 7400000, guid: c36cd71a2134d4f48855adbe51400790, type: 2}
+  - {fileID: 7400000, guid: eefd655aaa9d5c0409204ba1a941da3c, type: 2}
+  - {fileID: 7400000, guid: 87aceb409960c5f4894390601a56a80c, type: 2}

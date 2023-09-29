@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24dd6a0ab1f6e364fa661a9791a83e3b, type: 3}
+  m_Name: Clothes 1
+  m_EditorClassIdentifier: 
+  bodyPartName: Clown Clothes
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: a8dafdf453bf80e4d83aa4618f2db5d0, type: 2}
+  - {fileID: 7400000, guid: 556bfd1dd42832c44b5206700578adc8, type: 2}
+  - {fileID: 7400000, guid: babf33fc35cba8a47bf2a145652a40e2, type: 2}
+  - {fileID: 7400000, guid: ae2b2c18fe0ca5f4c9917a4cd3156ad7, type: 2}
+  - {fileID: 7400000, guid: e31e8335e47f7e5418c70c2e2dbcc2b5, type: 2}
+  - {fileID: 7400000, guid: 8c0959501dbdca74c8073c341dc095d8, type: 2}
+  - {fileID: 7400000, guid: f304bfb46ef3170478d2aa013832be5d, type: 2}
+  - {fileID: 7400000, guid: 0a1e6565dc42a7b40afd1795c394bb69, type: 2}

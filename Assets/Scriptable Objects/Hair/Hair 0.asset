@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24dd6a0ab1f6e364fa661a9791a83e3b, type: 3}
+  m_Name: Hair 0
+  m_EditorClassIdentifier: 
+  bodyPartName: Bob Haircut
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: ca0e82e94cee72343863d0d1cbfbd311, type: 2}
+  - {fileID: 7400000, guid: 3d33ca28f68c66340bac92d63424f5fa, type: 2}
+  - {fileID: 7400000, guid: ac98d0a248bd6914da3f42af864feeec, type: 2}
+  - {fileID: 7400000, guid: 8e5970a3b0259f34ea1c71427fc21884, type: 2}
+  - {fileID: 7400000, guid: 2249aa88684eaf341903f5a23f30d013, type: 2}
+  - {fileID: 7400000, guid: 19c8c45cb34c3ac41aaa824664232e67, type: 2}
+  - {fileID: 7400000, guid: 5ab6eb8f0ca43434984f73b5fb0424d8, type: 2}
+  - {fileID: 7400000, guid: b6dadaa46362498429b1cf8d9dd03701, type: 2}
