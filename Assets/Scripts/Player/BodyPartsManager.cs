@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BodyPartsManager : MonoBehaviour
 {
-    // ~~ 1. Updates All Animations to Match Player Selections
+    //Updates All Animations to Match Player Selections
 
     [SerializeField] private CharacterBody_SO characterBody;
 
@@ -51,7 +51,6 @@ public class BodyPartsManager : MonoBehaviour
                     string direction = characterDirections[directionIndex];
 
                     // Get players animation from player body
-                    // ***NOTE: Unless Changed Here, Animation Naming Must Be: "[Type]_[Index]_[state]_[direction]" (Ex. Body_0_idle_down)
                     animationClip = Resources.Load<AnimationClip>("Player Animations/" + partType + "/" + partType + "_" + partID + "_" + state + "_" + direction);
 
                     // Override default animation
