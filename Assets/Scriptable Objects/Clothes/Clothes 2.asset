@@ -15,11 +15,11 @@ MonoBehaviour:
   bodyPartName: Witch Clothes
   bodyPartAnimationID: 2
   allBodyPartAnimations:
-  - {fileID: 7400000, guid: 3d11f036918fd1a4ba182073862e6440, type: 2}
-  - {fileID: 7400000, guid: 9d212771436123b4abb0f243f80c3a85, type: 2}
-  - {fileID: 7400000, guid: 9d212771436123b4abb0f243f80c3a85, type: 2}
-  - {fileID: 7400000, guid: 485e1ed642aa02542894bfedcdee9fb6, type: 2}
-  - {fileID: 7400000, guid: cd600098304d3e141a0c8197368847a2, type: 2}
-  - {fileID: 7400000, guid: 9c668d17dab30314baa16a657d472200, type: 2}
-  - {fileID: 7400000, guid: 8debc999fb9d4b542b03dcd9cab2789a, type: 2}
-  - {fileID: 7400000, guid: cf77a700e44076a45a3f514c7f4ba7c2, type: 2}
+  - {fileID: 7400000, guid: f8aaeee9f0c16b6499d8ff9ca91d4f4e, type: 2}
+  - {fileID: 7400000, guid: efb829725bfd045498cf2f4f18e1adc0, type: 2}
+  - {fileID: 7400000, guid: 097556f7d94c9524ab638390c3c80cf9, type: 2}
+  - {fileID: 7400000, guid: e0bba1c3de402aa4ea5b838d47279d96, type: 2}
+  - {fileID: 7400000, guid: 88a5dbf32a14a0f4cbb96c45e6e5eb29, type: 2}
+  - {fileID: 7400000, guid: 0eba569fb7b2de54a87df42107d143de, type: 2}
+  - {fileID: 7400000, guid: 69d9bb54e1f9c1243b51b2da51e98d31, type: 2}
+  - {fileID: 7400000, guid: 8a8b51f8f7dfe0e439d91c23e03dcc60, type: 2}

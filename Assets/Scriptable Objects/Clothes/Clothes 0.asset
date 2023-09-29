@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24dd6a0ab1f6e364fa661a9791a83e3b, type: 3}
   m_Name: Clothes 0
   m_EditorClassIdentifier: 
-  bodyPartName: Basic T-Shirt
+  bodyPartName: Clown Clothes
   bodyPartAnimationID: 0
   allBodyPartAnimations:
-  - {fileID: 7400000, guid: df4581db9f4c55540828976fd793d78d, type: 2}
-  - {fileID: 7400000, guid: a40ca0cecb8773145adaab527c815fa4, type: 2}
-  - {fileID: 7400000, guid: 471a3d6b2fc8f154b9f7ac0df2e6c6d8, type: 2}
-  - {fileID: 7400000, guid: f2dedea9aeecfb64394a4bba257986eb, type: 2}
-  - {fileID: 7400000, guid: 0b31a34db94e28646a78f2cc88ba4bad, type: 2}
-  - {fileID: 7400000, guid: 72ad9a68b47ec8347865448707b1f211, type: 2}
-  - {fileID: 7400000, guid: b694ded4f8a09d9498c67751bbe7e1fc, type: 2}
-  - {fileID: 7400000, guid: 3c6a07c62f46ca245b5c2b857c374a68, type: 2}
+  - {fileID: 7400000, guid: c70a1fbfa623f7f4eb0663d5ac72e428, type: 2}
+  - {fileID: 7400000, guid: 57bc950538744dc49b03dd98a1b87f82, type: 2}
+  - {fileID: 7400000, guid: ee9423836c5840b40ae5b237d574b298, type: 2}
+  - {fileID: 7400000, guid: 5e0d0a4bd667fbe42a415222c3ac2f12, type: 2}
+  - {fileID: 7400000, guid: fabef893f6aa7e44fa11cc795778378e, type: 2}
+  - {fileID: 7400000, guid: f0663a5efc3263b44930ff434e412d78, type: 2}
+  - {fileID: 7400000, guid: b310cc26a14105047b629a1d6c059b9b, type: 2}
+  - {fileID: 7400000, guid: 6a62e8a171b7cb442bcbf3125bdafb3b, type: 2}

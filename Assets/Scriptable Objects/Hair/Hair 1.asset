@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Hair 1
   m_EditorClassIdentifier: 
   bodyPartName: Gentleman Haircut
-  bodyPartAnimationID: 0
+  bodyPartAnimationID: 1
   allBodyPartAnimations:
   - {fileID: 7400000, guid: 1bfe3eeba92dbe44eb33f9b0a51e2a29, type: 2}
   - {fileID: 7400000, guid: a0366b20a39515748b6fe66ac7ce1a80, type: 2}
   - {fileID: 7400000, guid: 643655ff9a136b34c9d53ed1575c4632, type: 2}
-  - {fileID: 7400000, guid: a8eadaee00f56c14490b360d3137db56, type: 2}
+  - {fileID: 7400000, guid: 6b582351a6434b543b7e8ebc1aae3e6b, type: 2}
   - {fileID: 7400000, guid: 73f5591498f3f4942a59b26f273f2251, type: 2}
   - {fileID: 7400000, guid: e8fbed0e4c31b7244b8929e8aeae8ccf, type: 2}
   - {fileID: 7400000, guid: 5e3b18042f4193145aa7d021eee56c58, type: 2}

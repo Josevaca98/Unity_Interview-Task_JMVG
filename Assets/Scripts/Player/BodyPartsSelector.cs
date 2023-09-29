@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq.Expressions;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 public class BodyPartsSelector : MonoBehaviour
@@ -94,6 +95,6 @@ public class BodyPartsSelector : MonoBehaviour
     {
         public string bodyPartName;
         public BodyParts_SO[] bodyPartsOptions;
-        public Text bodyPartNameTextComponent;
+        public TextMeshProUGUI bodyPartNameTextComponent;
         [HideInInspector] public int bodyPartCurrentIndex;
     }
