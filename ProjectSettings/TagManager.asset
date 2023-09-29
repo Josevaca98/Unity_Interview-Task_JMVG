@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Event
   layers:
   - Default
   - TransparentFX
@@ -43,4 +44,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3391417715
+    locked: 0
+  - name: UI
+    uniqueID: 4033154677
     locked: 0

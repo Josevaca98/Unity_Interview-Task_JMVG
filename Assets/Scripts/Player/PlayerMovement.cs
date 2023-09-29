@@ -10,6 +10,8 @@ public class PlayerMovement : MonoBehaviour
     Vector2 movement;
     [SerializeField] private GameObject notificationSign;
 
+    public GameObject instructionsPanel;
+
     private void Start() 
     {
         EnableDisableNotificationSign(false);
@@ -22,10 +24,13 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate() 
     {   
-        movement = Vector2.zero;
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
-        UpdateAnimationAndMove();
+        if(!instructionsPanel.activeInHierarchy)
+        {
+            movement = Vector2.zero;
+            movement.x = Input.GetAxisRaw("Horizontal");
+            movement.y = Input.GetAxisRaw("Vertical");
+            UpdateAnimationAndMove();
+        }
     }
 
     void UpdateAnimationAndMove()

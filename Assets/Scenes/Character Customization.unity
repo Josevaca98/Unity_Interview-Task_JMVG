@@ -2662,6 +2662,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2299766700604648569, guid: f9aa9c29f61b2354686716234d5fb34e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 83.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299766700604648569, guid: f9aa9c29f61b2354686716234d5fb34e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 68.62
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9aa9c29f61b2354686716234d5fb34e, type: 3}
 --- !u!1 &1684020827
@@ -2798,7 +2806,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: SampleScene
+          m_StringArgument: Demo
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1849541031

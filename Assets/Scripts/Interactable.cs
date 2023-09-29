@@ -8,6 +8,7 @@ public class Interactable : MonoBehaviour
     public bool isInRange;
     public KeyCode key;
     public UnityEvent interactAction;
+    public GameObject obj;
 
     // Update is called once per frame
     void Update()
@@ -39,6 +40,8 @@ public class Interactable : MonoBehaviour
             Debug.Log("Estoy afuera");
 
             collision.gameObject.GetComponent<PlayerMovement>().EnableDisableNotificationSign(false);
+
+            obj.SetActive(false);
         }
     }
 }
